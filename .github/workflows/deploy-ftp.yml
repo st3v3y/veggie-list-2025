@@ -8,7 +8,7 @@ jobs:
     - name: 🚚 Get latest code
       uses: actions/checkout@v4
 
-    - uses: pnpm/action-setup@v3
+    - uses: npm/action-setup@v3
       with:
         version: 8
 
@@ -16,12 +16,12 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '20'
-        cache: 'pnpm'
+        cache: 'npm'
       
     - name: 🔨 Build Project
       run: |
-        pnpm install
-        pnpm run build
+        npm install
+        npm run build
     
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
