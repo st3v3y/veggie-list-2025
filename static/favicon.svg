@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 360 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="XMLID_878_">
+        <path id="XMLID_879_" d="M230,35C217.119,35 205.111,38.782 195,45.271L195,15C195,6.716 188.284,0 180,0C171.716,0 165,6.716 165,15L165,45.271C154.889,38.782 142.881,35 130,35C121.716,35 115,41.716 115,50C115,58.284 121.716,65 130,65C149.299,65 165,80.701 165,100L165,123L195,123L195,100C195,80.701 210.701,65 230,65C238.284,65 245,58.284 245,50C245,41.716 238.284,35 230,35Z" style="fill:rgb(145,220,90);fill-rule:nonzero;"/>
+        <path id="XMLID_880_" d="M180,123L180,0C171.716,0 165,6.716 165,15L165,45.271C154.889,38.782 142.881,35 130,35C121.716,35 115,41.716 115,50C115,58.284 121.716,65 130,65C149.299,65 165,80.701 165,100L165,123L180,123Z" style="fill:rgb(100,195,125);fill-rule:nonzero;"/>
+        <path id="XMLID_881_" d="M240,200C240,310 180,360 180,360C180,360 120,310 120,200L120,140C120,106.863 146.863,80 180,80C213.137,80 240,106.863 240,140L240,200Z" style="fill:rgb(255,173,65);fill-rule:nonzero;"/>
+        <path id="XMLID_882_" d="M180,360C180,360 120,310 120,200L120,140C120,106.863 146.863,80 180,80L180,360Z" style="fill:rgb(255,152,17);fill-rule:nonzero;"/>
+        <path id="XMLID_883_" d="M150,170L120,170L120,190L150,190C155.523,190 160,185.523 160,180C160,174.477 155.523,170 150,170Z" style="fill:rgb(189,114,13);fill-rule:nonzero;"/>
+        <path id="XMLID_17_" d="M210,160L240,160L240,140L210,140C204.477,140 200,144.477 200,150C200,155.523 204.477,160 210,160Z" style="fill:rgb(255,152,17);fill-rule:nonzero;"/>
+        <path id="XMLID_884_" d="M160,240C160,234.477 155.523,230 150,230L121.554,230C122.289,236.961 123.268,243.624 124.444,250L150,250C155.523,250 160,245.523 160,240Z" style="fill:rgb(189,114,13);fill-rule:nonzero;"/>
+        <path id="XMLID_885_" d="M200,210C200,215.523 204.477,220 210,220L239.32,220C239.763,213.568 240,206.902 240,200L210,200C204.477,200 200,204.477 200,210Z" style="fill:rgb(255,152,17);fill-rule:nonzero;"/>
+    </g>
+</svg>
