@@ -1,38 +1,29 @@
-# sv
+# Veggie List with Sveltekit and Pocketbase
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+## What's inside?
 
-## Creating a project
+This repo contains an implementation of a test app based on sveltekit and pocketbase. This is a remake of ab old (veggie list repo)[https://github.com/st3v3y/veggie-list] I made 3 years ago.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Why?
 
-```bash
-# create a new project in the current directory
-npx sv create
+We live in a small village at the coast of Ecuador. Every Wednesday our "Veggie Truck" comes to our house to deliver a box of fresh vegetables (and fruits). Because we are very modern here «*cough*», the veggie truck driver receives our order via WhatsApp. So we send him every week a list of all vegetables and fruits we would like to order including their amounts in units, kilograms/grams, pounds or dollars. To make the process of creating this list easier and more exciting for us (and of course to play around with some cool frameworks like Sveltekit and Pocketbase) I decided to create this app. 
 
-# create a new project in my-app
-npx sv create my-app
+I hope you like it and enjoy it. 
+
+### Build
+
+To build the app, run the following command:
+
 ```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
+cd veggie-list-2025
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
+### Develop
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+To join the development, run the following command:
+
+```
+cd veggie-list-2025
+npm run dev
+```
