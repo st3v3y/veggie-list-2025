@@ -4,9 +4,12 @@ jobs:
   web-deploy:
     name: 🎉 Deploy
     runs-on: macos-latest
-    env:
-      PUBLIC_POCKETBASE_URL: ${{ PUBLIC_POCKETBASE_URL}}
     steps:
+    - name: Create .env file
+      run: |
+        echo "NODE_ENV=production" >> .env
+        echo "PUBLIC_POCKETBASE_URL=${{ secrets.PUBLIC_POCKETBASE_URL }}" >> .env
+    
     - name: 🚚 Get latest code
       uses: actions/checkout@v4
 
