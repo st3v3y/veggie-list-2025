@@ -2,7 +2,7 @@
 
 ## What's inside?
 
-This repo contains an implementation of a test app based on sveltekit and pocketbase. This is a remake of ab old (veggie list repo)[https://github.com/st3v3y/veggie-list] I made 3 years ago.
+This repo contains an implementation of a test app based on sveltekit and pocketbase. This is a remake of ab old [veggie list repo](https://github.com/st3v3y/veggie-list) I made 3 years ago.
 
 ## Why?
 
